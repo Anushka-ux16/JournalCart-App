@@ -103,8 +103,122 @@
  </div>
  </div>
  </div>
- <style type="text/css">
-   
+ <style>
+   @import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda+SC:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&family=Great+Vibes&family=Gupter:wght@400;500;700&family=New+Amsterdam&family=Nova+Cut&family=Platypi:ital,wght@0,300..800;1,300..800&family=Sevillana&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Gupter:wght@400;500;700&family=New+Amsterdam&family=Nova+Cut&family=Platypi:ital,wght@0,300..800;1,300..800&family=Sevillana&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Nerko+One&display=swap');
+
+
+@keyframes shake{
+    0%{transform:rotate(360deg)};
+    80%{transform:rotate(360deg)};
+    100%{transform:rotate(360deg)};
+}
+
+#body{
+    display:none;
+    opacity:-1;
+}
+
+#main-body{
+    background-image:url("https://dl.dropbox.com/scl/fi/8o9z5mhpecpj0nboxifb0/e9012569a585f65a808e7e722ab7a121.jpg?rlkey=5434qsltv138m1hv8ubjgyrff&st=9lfp42mf&dl=0");
+}
+
+
+#l1 {
+    width:150px;
+    height:150px;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:60%;
+    margin-bottom:50%;
+    animation:shake 10s linear infinite;
+    transform:rotate(5deg);
+    box-shadow: rgba(200, 0, 255, 75) 0px 0px 6px, rgba(200, 0, 255, 1) 0px 4px 30px;
+    border-radius:100px;
+    
+}
+
+@keyframes opacitys{
+    0%{opacity:0;}
+    50%{opacity:1;}
+    100%{opacity:1;}
+}
+
+
+#head{
+   font-size:60px;
+   left:25%;
+   top:-49%;
+   font-family:Nerko One;
+   position:absolute;
+}
+
+#journal{
+    top:-2%;
+    left:-2%;
+    background-color:#ffaef1;
+    width:105%;
+    position:absolute;
+    height:13%;
+    border-bottom-left-radius:250px;
+    border-bottom-right-radius:250px;
+    
+}
+
+#div1{
+    width:90%;
+    height:68%;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+    border-radius:20px;
+    background-color:white;
+    position:absolute;
+    top:15%;
+    left:5%;
+    background:linear-gradient(101deg,#ed7bc4 35%,#5606bd 90%,#5606bd 100%);
+    
+}
+
+#head2{
+   font-size:30px;
+   left:14%;
+   top:-6%;
+   font-family:Nerko One;
+   position:absolute;
+    
+}
+
+#images{
+    width:75%;
+    height:60%;
+    margin-left:12%;
+    margin-right:26%;
+    margin-top:18%;
+    border-radius:20px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+}
+
+#p1{
+    font-size:45px;
+    font-weight:45px;
+    margin-left:2%;
+    margin-top:-45%;
+}
+
+#p2{
+    font-size:45px;
+    font-weight:45px;
+    margin-left:90%;
+    margin-top:-31%;
+}
+
+#div2{
+    width:90%;
+    height:97%;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px
  </style>
     
         
