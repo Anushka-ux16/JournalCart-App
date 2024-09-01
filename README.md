@@ -103,7 +103,7 @@
  </div>
  </div>
  </div>
- <style type="text/css">
+ <style>
    @import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda+SC:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&family=Great+Vibes&family=Gupter:wght@400;500;700&family=New+Amsterdam&family=Nova+Cut&family=Platypi:ital,wght@0,300..800;1,300..800&family=Sevillana&display=swap');
 
 @import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Gupter:wght@400;500;700&family=New+Amsterdam&family=Nova+Cut&family=Platypi:ital,wght@0,300..800;1,300..800&family=Sevillana&display=swap');
