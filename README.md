@@ -215,10 +215,6 @@
     margin-top:-31%;
 }
 
-#div2{
-    width:90%;
-    height:97%;
-    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px
  </style>
  </body>
  </html>
